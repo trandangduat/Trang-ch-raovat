@@ -25,24 +25,7 @@
   text-align: center;
 }
  
-.btn-front {
-  position: absolute;
-  display: block;
-  width: 100%;
-  height: 100%;
-  line-height: 80px;
-  background-color: #F44336;
-  color: #fff;
-  cursor: pointer;
-  backface-visibility: hidden;
-  -webkit-tap-highlight-color: transparent;
-  transition: background 0.15s ease, line-height 0.8s cubic-bezier(0.23, 1, 0.32, 1);
-}
- 
-.btn-front:hover {
-  background-color: #f77066;
-}
- 
+
 .btn.is-open .btn-front {
   pointer-events: none;
   line-height: 160px;
