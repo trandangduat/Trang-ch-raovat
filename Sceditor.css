@@ -1,0 +1,49 @@
+/*Sceditor*/
+#textarea_content{width:100%!important;margin-bottom:10px;text-align:left!important}
+div.sceditor-group{background:#FFF!important;border:1px solid #DDD!important;overflow:hidden;padding:0!important;border-radius:0!important;-moz-background-clip:0!important;-moz-border-radius:0!important;-webkit-border-radius:0!important}
+div.sceditor-group:last-child{float:right}
+div.sceditor-group > .sceditor-button:last-child{border:none}
+.sceditor-button{background:#FFF!important;border-radius:0!important}
+.sceditor-dropdown .button{background:#f5f5f5!important;border:1px solid grey!important;color:#444!important}
+.sceditor-button div,div.sceditor-grip{background-image:url(http://i.imgur.com/2VHtmji.png)!important;height:20px!important;width:20px!important}
+.sceditor-button-bold div{background-position:0 -31px!important}
+.sceditor-button-italic div{background-position:0 -64px!important}
+.sceditor-button-underline div{background-position:0 -192px!important}
+.sceditor-button-strike div{background-position:0 -96px!important}
+.sceditor-button-left div{background-position:0 -1472px!important}
+.sceditor-button-center div{background-position:0 -1440px!important}
+.sceditor-button-right div{background-position:0 -1504px!important}
+.sceditor-button-justify div{background-position:0 -1408px!important}
+.sceditor-button-horizontalrule div{background-position:0 -1184px!important}
+.sceditor-button-bulletlist div{background-position:0 -1696px!important}
+.sceditor-button-orderedlist div{background-position:0 -1760px!important}
+.sceditor-button-quote div{background-position:0 -288px!important}
+.sceditor-button-code div{background-position:0 -2432px!important}
+.sceditor-button-faspoiler div{background-position:0 -1568px!important}
+.sceditor-button-fahide div{background-position:-1px -1px!important;background-image:url(http://i.imgur.com/N2KvlXG.png)!important}
+.sceditor-button-table div{background-position:0 -2592px!important}
+.sceditor-button-servimg div{background-position:0 -1247px!important}
+.sceditor-button-image div{background-position:0 -1248px!important}
+.sceditor-button-link div{background-position:0 -1599px!important}
+.sceditor-button-unlink div{background-position:0 -1631px!important}
+.sceditor-button-youtube div{background-position:-2px -1px!important;background-image:url(http://i.imgur.com/iN9D64m.png)!important}
+.sceditor-button-dailymotion div{background-position:0 -2879px!important}
+.sceditor-button-flash div{background-position:0 -767px!important}
+.sceditor-button-headers div{background-position:-4px -3px!important;background-image:url(http://i.imgur.com/kDxOapJ.png)!important}
+.sceditor-button-size div{background-position:0 -2944px!important}
+.sceditor-button-color div{background-position:0 -544px!important}
+.sceditor-button-font div{background-position:0 -2911px!important}
+.sceditor-button-removeformat div{background-position:0 -2208px!important}
+.sceditor-button-time div{background-position:-2px -2px!important;background-image:url(http://i.imgur.com/2FkBIoj.png)!important}
+.sceditor-button-more div{background-position:-2px 0!important;background-image:url(http://i.imgur.com/mtPlBOo.png)!important}
+.sceditor-button-fontawesome div{background-image:url(http://i19.servimg.com/u/f19/19/06/98/92/fa-f10.png)!important}
+.sceditor-button-superscript div{background-position:0 -160px!important}
+.sceditor-button-subscript div{background-position:0 -127px!important}
+.sceditor-button-fascroll div{background-position:0 0!important;background-image:url(http://i.imgur.com/tBL2688.png)!important}
+.sceditor-button-faupdown div{background-position:-2px -2px!important;background-image:url(http://i.imgur.com/FrWOuXw.png)!important}
+.sceditor-button-farand div{background-position:-4px -2px!important;background-image:url(http://i.imgur.com/tCiG7Te.png)!important}
+.sceditor-button-pastetext div{background-position:0 -2015px!important}
+.sceditor-button-source div{background-position:0 -608px!important}
+.sceditor-button-maximize div{background-position:0 -1792px!important}
+.sceditor-button-emoticon div{background-position:0 -2400px!important}
+.hover,.sceditor-button.active,.sceditor-button:active,.sceditor-button:hover{background:#DDD!important;box-shadow:none!important}
